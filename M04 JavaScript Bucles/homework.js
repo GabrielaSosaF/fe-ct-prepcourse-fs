@@ -250,7 +250,7 @@ do {
    return resultado;
 
 
-} console.log (doWhile(7))
+} console.log (doWhile(1))
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
